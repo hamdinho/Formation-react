@@ -1,0 +1,66 @@
+{
+  "memes": [
+    {
+      "id": 0,
+      "titre":"meme1",
+      "text": "Demat breizh",
+      "x": 50,
+      "y": 100,
+      "fontWeight": "900",
+      "fontSize": 30,
+      "underline": true,
+      "italic": false,
+      "imageId": 0,
+      "color": "#ACEBA0"
+    },
+    {
+      "id": 1,
+      "titre":"meme1",
+      "text": "React is cool",
+      "x": 50,
+      "y": 100,
+      "fontWeight": "900",
+      "fontSize": 30,
+      "underline": true,
+      "italic": false,
+      "imageId": 1,
+      "color": "#FF0BA0"
+    },
+    {
+      "id": 2,
+      "titre":"meme2",
+      "text": "Hello",
+      "x": 50,
+      "y": 100,
+      "fontWeight": "900",
+      "fontSize": 30,
+      "underline": true,
+      "italic": false,
+      "imageId": 2,
+      "color": "#0CFFA0"
+    }
+  ],
+  "images": [
+    {
+      "id": 0,
+      "url": "futurama.jpg",
+      "w": 1200,
+      "h": 675,
+      "name": "futurama"
+    },
+    {
+      "id": 1,
+      "url": "futurama2.jpg",
+      "w": 1980,
+      "h": 1114,
+      "name": "futurama space"
+    },
+    {
+      "id": 2,
+      "url": "futurama3.png",
+      "w": 1280,
+      "h": 720,
+      "name": "futurama freeze"
+    }
+  ]
+}

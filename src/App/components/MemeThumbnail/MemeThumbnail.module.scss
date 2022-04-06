@@ -1,0 +1,12 @@
+.MemeThumbnail {
+    padding: 10px 20px;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    overflow: auto;
+}
+.MemeThumbnail a div{
+    width: 22vw;
+    text-align: center;
+    margin-bottom:10px;
+}

@@ -1,0 +1,32 @@
+.Modal {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #DADAFAE0;
+    display: flex;
+    justify-content: center;
+}
+.modalContent{
+    margin-top: 50px;
+    max-width:33vw;
+    max-height:calc(100% - 200px);
+    border-radius: 7px;
+    background-color: white;
+    box-shadow: 20px 20px 30px darkgray;
+    padding: 5px 20px;
+    
+}
+.title{
+    border-bottom: 1px solid grey;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+.content{
+    border-bottom:1px solid black;
+    height: calc(100% - 80px);
+    overflow:auto;
+}
+.buttons{text-align: center;}
